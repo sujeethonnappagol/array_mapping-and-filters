@@ -280,3 +280,6 @@ let dra = movies
   .map(user => user.title);
 
 console.log(dra);
+
+this is all about this class
+            
